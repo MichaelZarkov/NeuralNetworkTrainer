@@ -6,27 +6,27 @@ The online book I used to learn can be found here: http://neuralnetworksanddeepl
 # INPUT PARAMETERS #
 
 The program will prompt you input the following(scroll down explanations):
-	01. File with training data and answers.
-	02. Hidden layer count.
-	03. Neurons in each hidden layer.
-	04. Value range.
-	05. Batch size.
-	06. Generation count.
-	07. Learning rate.
-	08. Learning rate decrease.
-	09. File with testing data and answers.
+01. File with training data and answers.
+02. Hidden layer count.
+03. Neurons in each hidden layer.
+04. Value range.
+05. Batch size.
+06. Generation count.
+07. Learning rate.
+08. Learning rate decrease.
+09. File with testing data and answers.
 
 # SAMPLE PARAMETERS #
 
 How well the neural network is trained is very dependent on the training parameters and the size of the dataset.
 Here are some sample values for the parameters that work all right and may be a good starting point:
-	* Hidden layer count: 1 or 2.
-	* Neurons in each hidden layer: 20 to 100.
-	* Value range: -0.1 0.1
-	* Batch size: 10      // I haven't played with this all that much.
-	* Generation count: 10 to 40
-	* Learning rate: 1.0
-	* Learning rate decrease: 1.1 to 2.0
+* Hidden layer count: 1 or 2.
+* Neurons in each hidden layer: 20 to 100.
+* Value range: -0.1 0.1
+* Batch size: 10      // I haven't played with this all that much.
+* Generation count: 10 to 40
+* Learning rate: 1.0
+* Learning rate decrease: 1.1 to 2.0
 
 # EXPLANATIONS #
 					
