@@ -123,14 +123,15 @@ void NeuralNetTrainer::inputNeuronCountInHiddenLayers(std::vector<size_t>& neuro
 void NeuralNetTrainer::initializationMessage() const
 {
 	setConsoleTextNeuralNet();
-	std::cout << "Welcome to Neural Network trainer.\n"
+	std::cout << "Welcome to Neural Network Trainer.\n"
 		<< "The training will be in 6 steps:\n"
 		<< "   1. Initialize the new neural network with a training data file.\n"
 		<< "   2. Input the training parameters.\n"
 		<< "   3. Test the neural network with testing data file (before the training).\n"
 		<< "   4. Train the neural network.\n"
 		<< "   5. Test the neural network with testing data file (after the training).\n"
-		<< "   6. Optionally save to file the trained neural network.\n";
+		<< "   6. Optionally save to file the trained neural network.\n\n"
+		<< "For more in-depth explanation of the training parameters see folder 'documentation' in the project.\n";
 }
 
 void NeuralNetTrainer::inputTrainingParameters()
