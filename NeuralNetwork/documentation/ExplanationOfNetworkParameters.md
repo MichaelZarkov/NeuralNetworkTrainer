@@ -1,5 +1,5 @@
 
-	# SOURCES #
+# SOURCES #
 	
 The online book I used to learn can be found here: http://neuralnetworksanddeeplearning.com/index.html
 	
