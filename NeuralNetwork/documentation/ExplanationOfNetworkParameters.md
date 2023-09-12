@@ -4,7 +4,7 @@
 The online book I used to learn can be found here: http://neuralnetworksanddeeplearning.com/index.html
 	
 ------------------------------------------------------------------------------------------------------------------------------------
-	# INPUT PARAMETERS
+# INPUT PARAMETERS #
 
 The program will prompt you input the following(scroll down explanations):
 	01. File with training data and answers.
@@ -18,7 +18,7 @@ The program will prompt you input the following(scroll down explanations):
 	09. File with testing data and answers.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-	# SAMPLE PARAMETERS
+# SAMPLE PARAMETERS #
 
 How well the neural network is trained is very dependent on the training parameters and the size of the dataset.
 Here are some sample values for the parameters that work all right and may be a good starting point:
@@ -31,7 +31,7 @@ Here are some sample values for the parameters that work all right and may be a 
 	* Learning rate decrease: 1.1 to 2.0
 
 ------------------------------------------------------------------------------------------------------------------------------------
-	# EXPLANATIONS
+# EXPLANATIONS #
 					
 01. File with training data and answers: give a file path to the following file:
 	* This is a file with 2 matrices in it. The first matrix(input matrix) in the file contains the inputs for the input neuron layer
