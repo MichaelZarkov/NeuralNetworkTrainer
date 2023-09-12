@@ -3,7 +3,6 @@
 	
 The online book I used to learn can be found here: http://neuralnetworksanddeeplearning.com/index.html
 	
-------------------------------------------------------------------------------------------------------------------------------------
 # INPUT PARAMETERS #
 
 The program will prompt you input the following(scroll down explanations):
@@ -17,7 +16,6 @@ The program will prompt you input the following(scroll down explanations):
 	08. Learning rate decrease.
 	09. File with testing data and answers.
 
-------------------------------------------------------------------------------------------------------------------------------------
 # SAMPLE PARAMETERS #
 
 How well the neural network is trained is very dependent on the training parameters and the size of the dataset.
@@ -30,7 +28,6 @@ Here are some sample values for the parameters that work all right and may be a 
 	* Learning rate: 1.0
 	* Learning rate decrease: 1.1 to 2.0
 
-------------------------------------------------------------------------------------------------------------------------------------
 # EXPLANATIONS #
 					
 01. File with training data and answers: give a file path to the following file:
